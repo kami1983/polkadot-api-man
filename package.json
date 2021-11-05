@@ -1,0 +1,14 @@
+{
+  "name": "polkadot-man",
+  "version": "1.0.1",
+  "description": "For developer polkadot.",
+  "main": "index.js",
+  "repository": "git@github.com:kami1983/polkadot-api-man.git",
+  "author": "linhai <kami@cancanyou.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@polkadot/api": "^6.6.1",
+    "@polkadot/types": "^6.6.1"
+  }
+}
